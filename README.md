@@ -1,2 +1,3 @@
 # PDF-tools
-Merge pdf
+[Merge PDF](tools/merge_pdfs.py)  
+[Split PDF](tools/split_pdf.py)
